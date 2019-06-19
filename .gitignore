@@ -1,3 +1,13 @@
+# .gitignore these files
+encodings.xml
+game.cpython-37.pyc
+inventory.cpython-37.pyc
+magic.cpython-37.pyc
+misc.xml
+modules.xml
+RPG_battle.iml
+workspace.xml
+__init__.cpython-37.pyc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
